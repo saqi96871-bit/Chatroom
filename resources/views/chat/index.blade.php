@@ -94,6 +94,7 @@
             font-size: 0.75rem;
             color: #888;
             margin-top: 2px;
+            margin-bottom: 2px;
         }
     </style>
 
