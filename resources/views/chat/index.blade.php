@@ -80,7 +80,7 @@
             margin-left: auto;
             background: #e2f7e1;
             padding: 8px;
-            border-radius: 8px;
+            border-radius: 5px;
         }
 
         #message-list li.text-start {
